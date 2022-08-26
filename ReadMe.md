@@ -2,4 +2,4 @@
 
 I study in Netology/
 
-Git is gerat!
+Git is great!
